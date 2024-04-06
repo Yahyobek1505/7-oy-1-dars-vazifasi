@@ -1,0 +1,14 @@
+.logo h1{
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+.contact{
+  border: 1px solid #079211;
+}
+.header {
+  /* border-bottom: 1px solid #484845; */
+  box-shadow: 1px 17px 13px 0px rgba(71, 71, 71, 0.75);
+  -webkit-box-shadow: 1px 17px 13px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 1px 17px 13px 0px rgba(0,0,0,0.75);
+}
