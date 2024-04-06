@@ -12,3 +12,14 @@
   -webkit-box-shadow: 1px 17px 13px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 1px 17px 13px 0px rgba(0,0,0,0.75);
 }
+li a{
+  font-weight: 700;
+  font-size: 14px;
+}
+nav span h3{
+  font-weight: 700;
+  font-size: 14px;
+}
+li a:hover{
+  color: #079211;
+}

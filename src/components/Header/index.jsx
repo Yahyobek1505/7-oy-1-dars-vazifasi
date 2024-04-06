@@ -5,28 +5,28 @@ function Header() {
     <>
       <header className="header ">
         <div className="flex justify-between conainer w-5/6 mx-auto">
-          <div className="logo pt-8">
+          <div className="logo py-6">
             <h1 className="text-white ">
               Alifreza
+            <span className="text-4xl text-[#079211]">.</span>
             </h1>
-            <span className="text-3xl">.</span>
           </div>
           <nav className="text-white flex items-center  justify-between gap-14">
             <ul className="flex justify-around gap-8">
               <li className="list-none">
-                <a href="#">Home</a>
+                <a className="transition-all duration-400" href="#">Home</a>
               </li>
               <li className="list-none">
-                <a href="#">Servicies</a>
+                <a className="transition-all duration-400"  href="#">Servicies</a>
               </li>
               <li className="list-none">
-                <a href="#">Work</a>
+                <a className="transition-all duration-400" href="#">Work</a>
               </li>
               <li className="list-none">
-                <a href="#">About us</a>
+                <a  className="transition-all duration-400" href="#">About us</a>
               </li>
               <li className="list-none">
-                <a href="#">Blog</a>
+                <a className="transition-all duration-400" href="#">Blog</a>
               </li>
             </ul>
             <span className="contact px-3 py-1.5">
