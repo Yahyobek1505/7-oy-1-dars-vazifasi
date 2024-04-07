@@ -23,8 +23,8 @@ function About() {
           </p>
         </div>
       </div>
-      <div className="card-wrapper justify-center flex flex-wrap gap-10 mt-20">
-        <div className="card  w-[20rem] pt-14 pb-10  px-8 bg-zinc-800">
+      <div className="card-wrapper justify-center flex flex-wrap gap-4 mt-20">
+        <div className="card  w-[22.5rem] pt-14 pb-10  px-8 bg-zinc-800">
           <img src={Product} alt="" />
           <h3 className="mt-4 text-white text-2xl">Product design</h3>
           <p className="mt-4 text-[#808080]">
@@ -32,20 +32,20 @@ function About() {
             From initial ideation to implementation.
           </p>
         </div>
-        <div className="card w-[20rem]  pt-14 pb-10  px-8 bg-zinc-800">
+        <div className="card w-[22.5rem]  pt-14 pb-10  px-8 bg-zinc-800">
           <img src={Coding} alt="" />
           <h3 className="mt-4 text-white text-2xl">Frontend develop</h3>
           <p className="mt-4 text-[#808080]">
-            I offer innovative and attention-grabbing product design services.
-            From initial ideation to implementation.
+            Specialize in responsive and interactive front-end development. With
+            a deep understanding of HTML, CSS, and JS.
           </p>
         </div>
-        <div className="card  w-[20rem] pt-14 pb-10  px-8 bg-zinc-800">
+        <div className="card  w-[22.5rem] pt-14 pb-10  px-8 bg-zinc-800">
           <img src={Copy} alt="" />
           <h3 className="mt-4 text-white text-2xl">Brand strategy</h3>
           <p className="mt-4 text-[#808080]">
-            I offer innovative and attention-grabbing product design services.
-            From initial ideation to implementation.
+            I help design strong and captivating brand strategies. Through
+            thorough research and market analysis.
           </p>
         </div>
       </div>
