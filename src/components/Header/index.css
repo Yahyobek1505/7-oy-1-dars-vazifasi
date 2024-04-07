@@ -6,6 +6,9 @@
 .contact{
   border: 1px solid #079211;
 }
+.view-all p{
+  border: 1px solid #079211;
+}
 .header {
   /* border-bottom: 1px solid #484845; */
   box-shadow: 1px 17px 13px 0px rgba(71, 71, 71, 0.75);
